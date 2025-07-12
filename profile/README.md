@@ -1,12 +1,12 @@
-\# Satu Teladan App Organization (Bahasa Indonesia)
+# Satu Teladan App Organization (Bahasa Indonesia)
 
 
 
-Selamat datang di repositori resmi untuk \*\*Aplikasi Satu Teladan\*\* (SATE App). Organisasi ini didedikasikan untuk membina koneksi dan mendukung komunitas alumni dari \[Nama Institusi/Organisasi - \*Harap tentukan informasi ini jika diketahui\*].
+Selamat datang di repositori resmi untuk **Aplikasi Satu Teladan** (SATE App). Organisasi ini didedikasikan untuk membina koneksi dan mendukung komunitas alumni dari [Nama Institusi/Organisasi - *Harap tentukan informasi ini jika diketahui*].
 
 
 
-\## Tentang Aplikasi Satu Teladan
+## Tentang Aplikasi Satu Teladan
 
 
 
@@ -14,7 +14,7 @@ Aplikasi Satu Teladan adalah aplikasi seluler komprehensif yang dirancang untuk 
 
 
 
-\## Visi
+## Visi
 
 
 
@@ -22,7 +22,7 @@ Visi kami adalah menciptakan ekosistem yang dinamis dan mendukung bagi alumni, m
 
 
 
-\## Fitur Utama
+## Fitur Utama
 
 
 
@@ -30,27 +30,27 @@ Aplikasi Satu Teladan menawarkan berbagai fungsionalitas untuk meningkatkan peng
 
 
 
-\* \*\*Direktori Alumni:\*\* Terhubung dengan sesama alumni, lihat profil, dan perluas jaringan profesional serta sosial Anda.
+* **Direktori Alumni:** Terhubung dengan sesama alumni, lihat profil, dan perluas jaringan profesional serta sosial Anda.
 
-\* \*\*Berita \& Pembaruan:\*\* Tetap terinformasi dengan berita, pengumuman, dan acara terbaru dari asosiasi alumni dan institusi.
+* **Berita & Pembaruan:** Tetap terinformasi dengan berita, pengumuman, dan acara terbaru dari asosiasi alumni dan institusi.
 
-\* \*\*Donasi \& Pendanaan (Dana):\*\* Berpartisipasi dalam kampanye penggalangan dana dan mendukung berbagai inisiatif serta tujuan dalam komunitas alumni.
+* **Donasi & Pendanaan (Dana):** Berpartisipasi dalam kampanye penggalangan dana dan mendukung berbagai inisiatif serta tujuan dalam komunitas alumni.
 
-\* \*\*Kegiatan:\*\* Temukan dan daftar untuk acara alumni, lokakarya, dan pertemuan.
+* **Kegiatan:** Temukan dan daftar untuk acara alumni, lokakarya, dan pertemuan.
 
-\* \*\*Forum Komunitas:\*\* Bergabung atau buat komunitas berdasarkan minat, diskusikan topik bersama, dan berkolaborasi dalam proyek.
+* **Forum Komunitas:** Bergabung atau buat komunitas berdasarkan minat, diskusikan topik bersama, dan berkolaborasi dalam proyek.
 
-\* \*\*Pesan:\*\* Berkomunikasi langsung dengan alumni lain dan anggota komunitas.
+* **Pesan:** Berkomunikasi langsung dengan alumni lain dan anggota komunitas.
 
-\* \*\*Profil Pengguna \& Pengaturan:\*\* Kelola informasi pribadi, pengaturan privasi, dan preferensi aplikasi.
+* **Profil Pengguna & Pengaturan:** Kelola informasi pribadi, pengaturan privasi, dan preferensi aplikasi.
 
-\* \*\*Notifikasi:\*\* Terima pemberitahuan tepat waktu tentang kegiatan baru, pesan, dan pengumuman penting.
+* **Notifikasi:** Terima pemberitahuan tepat waktu tentang kegiatan baru, pesan, dan pengumuman penting.
 
-\* \*\*Onboarding \& Otentikasi:\*\* Proses yang disederhanakan untuk pengguna baru mendaftar dan pengguna lama masuk, termasuk pengumpulan biodata untuk memperkaya profil pengguna.
+* **Onboarding & Otentikasi:** Proses yang disederhanakan untuk pengguna baru mendaftar dan pengguna lama masuk, termasuk pengumpulan biodata untuk memperkaya profil pengguna.
 
 
 
-\## Teknologi
+## Teknologi
 
 
 
@@ -58,13 +58,13 @@ Bagian frontend Aplikasi Satu Teladan dibangun menggunakan teknologi pengembanga
 
 
 
-\* \*\*React Native:\*\* Sebuah kerangka kerja populer untuk membangun aplikasi seluler asli menggunakan JavaScript dan React.
+* **React Native:** Sebuah kerangka kerja populer untuk membangun aplikasi seluler asli menggunakan JavaScript dan React.
 
-\* \*\*Expo:\*\* Sebuah kerangka kerja dan platform untuk aplikasi React universal, memungkinkan pengembangan dan penerapan yang lebih cepat.
+* **Expo:** Sebuah kerangka kerja dan platform untuk aplikasi React universal, memungkinkan pengembangan dan penerapan yang lebih cepat.
 
-\* \*\*Tailwind CSS (NativeWind):\*\* Untuk kerangka kerja CSS utility-first guna menata gaya aplikasi dengan cepat.
+* **Tailwind CSS (NativeWind):** Untuk kerangka kerja CSS utility-first guna menata gaya aplikasi dengan cepat.
 
-\* \*\*Supabase (Potensial):\*\* Struktur file menunjukkan kemungkinan integrasi dengan Supabase untuk layanan backend (basis data, otentikasi, dll.).
+* **Supabase (Potensial):** Struktur file menunjukkan kemungkinan integrasi dengan Supabase untuk layanan backend (basis data, otentikasi, dll.).
 
 
 
@@ -76,15 +76,15 @@ Terima kasih telah menjadi bagian dari komunitas Satu Teladan!
 
 
 
-\# Satu Teladan App Organization (English)
+# Satu Teladan App Organization (English)
 
 
 
-Welcome to the official repository for the \*\*Satu Teladan App\*\* (SATE App). This organization is dedicated to fostering connections and supporting the community of alumni from \[Name of Institution/Organization - \*Please specify this information if known\*].
+Welcome to the official repository for the **Satu Teladan App** (SATE App). This organization is dedicated to fostering connections and supporting the community of alumni from [Name of Institution/Organization - *Please specify this information if known*].
 
 
 
-\## About Satu Teladan App
+## About Satu Teladan App
 
 
 
@@ -92,7 +92,7 @@ The Satu Teladan App is a comprehensive mobile application designed to be a cent
 
 
 
-\## Vision
+## Vision
 
 
 
@@ -100,7 +100,7 @@ Our vision is to create a vibrant and supportive ecosystem for alumni, enabling 
 
 
 
-\## Key Features
+## Key Features
 
 
 
@@ -108,27 +108,27 @@ The Satu Teladan App offers a range of functionalities to enhance the alumni exp
 
 
 
-\* \*\*Alumni Directory:\*\* Connect with fellow alumni, view profiles, and expand your professional and social network.
+* **Alumni Directory:** Connect with fellow alumni, view profiles, and expand your professional and social network.
 
-\* \*\*News \& Updates:\*\* Stay informed with the latest news, announcements, and events from the alumni association and the institution.
+* **News & Updates:** Stay informed with the latest news, announcements, and events from the alumni association and the institution.
 
-\* \*\*Donation \& Funding (Dana):\*\* Participate in fundraising campaigns and support various initiatives and causes within the alumni community.
+* **Donation & Funding (Dana):** Participate in fundraising campaigns and support various initiatives and causes within the alumni community.
 
-\* \*\*Activities (Kegiatan):\*\* Discover and register for alumni events, workshops, and gatherings.
+* **Activities (Kegiatan):** Discover and register for alumni events, workshops, and gatherings.
 
-\* \*\*Community Forums (Komunitas):\*\* Join or create interest-based communities, discuss shared topics, and collaborate on projects.
+* **Community Forums (Komunitas):** Join or create interest-based communities, discuss shared topics, and collaborate on projects.
 
-\* \*\*Messaging:\*\* Communicate directly with other alumni and community members.
+* **Messaging:** Communicate directly with other alumni and community members.
 
-\* \*\*User Profiles \& Settings:\*\* Manage personal information, privacy settings, and app preferences.
+* **User Profiles & Settings:** Manage personal information, privacy settings, and app preferences.
 
-\* \*\*Notifications:\*\* Receive timely alerts about new activities, messages, and important announcements.
+* **Notifications:** Receive timely alerts about new activities, messages, and important announcements.
 
-\* \*\*Onboarding \& Authentication:\*\* A streamlined process for new users to register and existing users to log in, including biodata collection to enrich user profiles.
+* **Onboarding & Authentication:** A streamlined process for new users to register and existing users to log in, including biodata collection to enrich user profiles.
 
 
 
-\## Technologies
+## Technologies
 
 
 
@@ -136,13 +136,13 @@ The frontend of the Satu Teladan App is built using modern mobile development te
 
 
 
-\* \*\*React Native:\*\* A popular framework for building native mobile applications using JavaScript and React.
+* **React Native:** A popular framework for building native mobile applications using JavaScript and React.
 
-\* \*\*Expo:\*\* A framework and platform for universal React applications, enabling faster development and deployment.
+* **Expo:** A framework and platform for universal React applications, enabling faster development and deployment.
 
-\* \*\*Tailwind CSS (NativeWind):\*\* For a utility-first CSS framework to rapidly style the application.
+* **Tailwind CSS (NativeWind):** For a utility-first CSS framework to rapidly style the application.
 
-\* \*\*Supabase (Potential):\*\* File structure suggests possible integration with Supabase for backend services (database, authentication, etc.).
+* **Supabase (Potential):** File structure suggests possible integration with Supabase for backend services (database, authentication, etc.).
 
 
 
