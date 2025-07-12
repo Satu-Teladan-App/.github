@@ -2,7 +2,7 @@
 
 
 
-Selamat datang di repositori resmi untuk **Aplikasi Satu Teladan** (SATE App). Organisasi ini didedikasikan untuk membina koneksi dan mendukung komunitas alumni dari [Nama Institusi/Organisasi - *Harap tentukan informasi ini jika diketahui*].
+Selamat datang di repositori resmi untuk **Aplikasi Satu Teladan** (SATE App). Organisasi ini didedikasikan untuk membina koneksi dan mendukung komunitas alumni dari SMA Negeri 1 Yogyakarta.
 
 
 
@@ -80,7 +80,7 @@ Terima kasih telah menjadi bagian dari komunitas Satu Teladan!
 
 
 
-Welcome to the official repository for the **Satu Teladan App** (SATE App). This organization is dedicated to fostering connections and supporting the community of alumni from [Name of Institution/Organization - *Please specify this information if known*].
+Welcome to the official repository for the **Satu Teladan App** (SATE App). This organization is dedicated to fostering connections and supporting the community of alumni from State Senior High School 1 Yogyakarta.
 
 
 
